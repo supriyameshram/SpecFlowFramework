@@ -1,0 +1,36 @@
+﻿2019-02-13T12:40:40.7393878+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-02-13T12:40:40.7403880+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-13T12:40:40.7403880+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\supriya_meshram\source\repos\SpecFlowDemo\packages\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-13T12:40:41.0616721+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-13T12:40:41.0616721+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\supriya_meshram\source\repos\SpecFlowDemo\SpecFlowDemo\bin\Debug\SpecFlowDemo.dll
+2019-02-13T12:40:41.0616721+05:30;VSTestExecutionThread;Info;Profile: SpecFlowDemo
+2019-02-13T12:40:47.2374852+05:30;Thread#21;Info;starting test run
+2019-02-13T12:40:47.2454905+05:30;Thread#21;Info;Discovering target: Default
+2019-02-13T12:40:47.2454905+05:30;Thread#21;Info;Discovering tests from assembly: C:\Users\supriya_meshram\source\repos\SpecFlowDemo\SpecFlowDemo\bin\Debug\SpecFlowDemo.dll
+Appdomain Disposed
+Test Suite Dump
+#0: SpecFlowDemo/SpecFlowDemo - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-02-13T12:40:48.2018490+05:30;Thread#21;Info;test run finished
+2019-02-13T12:40:48.2028402+05:30;Thread#21;Info;publishing test results
+2019-02-13T12:40:48.2118463+05:30;Thread#21;Info;test results published
+2019-02-13T12:40:48.2118463+05:30;Thread#21;Info;generating reports
+2019-02-13T12:40:48.2348621+05:30;Thread#21;Info;creating 1 report(s)
+2019-02-13T12:40:48.2348621+05:30;Thread#21;Info;generate Report ReportTemplate.cshtml
+2019-02-13T12:41:00.6001104+05:30;Thread#21;Info;reports generated
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2019-02-13T12:41:00.6031117+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-13T12:41:00.6031117+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\supriya_meshram\source\repos\SpecFlowDemo\TestResults\SpecFlowDemo_SpecFlowDemo_2019-02-13T124041.html'
+2019-02-13T12:41:00.6191231+05:30;VSTestExecutionThread;Info;Log file: file:///C:\Users\supriya_meshram\source\repos\SpecFlowDemo\TestResults\SpecFlowDemo_SpecFlowDemo_2019-02-13T124041.log

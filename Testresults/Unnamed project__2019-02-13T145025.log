@@ -1,0 +1,34 @@
+﻿2019-02-13T14:50:25.5728920+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-02-13T14:50:25.5743911+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-13T14:50:25.5743911+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\supriya_meshram\source\repos\SpecFlowDemo\packages\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-13T14:50:25.7144906+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-13T14:50:25.7149909+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\supriya_meshram\source\repos\SpecFlowDemo\SpecFlowDemo\bin\Debug\SpecFlowDemo.dll
+2019-02-13T14:50:25.7149909+05:30;VSTestExecutionThread;Info;Profile: 
+2019-02-13T14:50:34.3512442+05:30;Thread#7;Info;starting test run
+2019-02-13T14:50:34.3813143+05:30;Thread#7;Info;Discovering target: Default
+Test Suite Dump
+#0: Unnamed project/ - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-02-13T14:50:34.9209841+05:30;Thread#7;Info;test run finished
+2019-02-13T14:50:34.9219840+05:30;Thread#7;Info;publishing test results
+2019-02-13T14:50:35.0780097+05:30;Thread#7;Info;test results published
+2019-02-13T14:50:35.0780097+05:30;Thread#7;Info;generating reports
+2019-02-13T14:50:35.2758820+05:30;Thread#7;Info;creating 1 report(s)
+2019-02-13T14:50:35.2768832+05:30;Thread#7;Info;generate Report ReportTemplate.cshtml
+2019-02-13T14:50:55.5467748+05:30;Thread#7;Info;reports generated
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2019-02-13T14:50:55.5507766+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-13T14:50:55.5507766+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\supriya_meshram\source\repos\SpecFlowDemo\TestResults\Unnamed project__2019-02-13T145025.html'
+2019-02-13T14:50:55.5793684+05:30;VSTestExecutionThread;Info;Log file: file:///C:\Users\supriya_meshram\source\repos\SpecFlowDemo\TestResults\Unnamed%20project__2019-02-13T145025.log
